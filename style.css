@@ -5,6 +5,7 @@
 
 body{
     text-align: center;
+    background-color:white;
 }
 hr{
     border-color: #66BFBF;
@@ -34,11 +35,9 @@ h3{
     color:  #66BFBF;
     
 }
-.container:hover{
-    background-color: #30e3cb;
-}
+
 .container{
-    background-color:#11cdd4;
+    
     display: flex;
     
     justify-content: center;
